@@ -7,7 +7,7 @@
 + This is based on the example program in the IDE.  Examples/ESP32/Camera/CameraWebServer.
 + The pin configuration is inluded in this sketch.
 + But the display app (app_httpd.ccp) needs to be copied to the same folder as the sketch.
-+ The easiest way is to load the example in the IDE and replace the ino file with the one here.
+ The easiest way is to load the example in the IDE and replace the ino file with the one here.
 + Uses the U8xlib OLED Driver from https://github.com/olikraus/U8g2_Arduino.  Thankyou Oli.
 + 
 + This web page has a logical local web address which is configurable.
