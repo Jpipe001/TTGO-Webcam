@@ -53,8 +53,8 @@
 U8X8_SSD1306_128X64_NONAME_SW_I2C u8x8(/* clock=*/ OLED_SCL, /* data=*/ OLED_SDA, /* reset=*/ OLED_RST); // Unbuffered, basic graphics, software I2C
 
 // COMFIGURE WiFi NETWORK
-const char* ssid = "NETGEAR46";         //"NETWORK NAME";
-const char* password = "icysea351";     //"PASSWORD";
+const char* ssid = "NETWORK NAME";
+const char* password = "PASSWORD";
 String local_hwaddr;                    // WiFi local hardware Address
 String local_swaddr;                    // WiFi local software Address
 const char* ServerName = "webcam";      // Logical Address http://webcam.local
